@@ -1,0 +1,35 @@
+.App{
+  text-align: center;
+  width: 500px;
+  margin: auto;
+  padding: 20px;
+  font-size: large;
+  font-family: cursive;
+}
+
+h2{
+  font-size: 30px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h3{
+  font-size: 15px;
+  font-style: italic;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: right;
+}
+.Optimus{
+  border: 5px solid;
+  width: auto;
+  border-image: linear-gradient(to right, red, purple)2;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.btn{
+  width: 300px;
+}
